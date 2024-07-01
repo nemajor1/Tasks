@@ -1,0 +1,15 @@
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\bin\Debug\net8.0\Basics.exe
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\bin\Debug\net8.0\Basics.deps.json
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\bin\Debug\net8.0\Basics.dll
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\bin\Debug\net8.0\Basics.pdb
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.cs
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.csproj.CoreCompileInputs.cache
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.sourcelink.json
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.dll
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\refint\Basics.dll
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.pdb
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\Basics.genruntimeconfig.cache
+C:\projects\TasksForUpdate\Tasks\Basics\Basics\obj\Debug\net8.0\ref\Basics.dll
