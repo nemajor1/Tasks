@@ -5,6 +5,6 @@ class Program
 {
     static void Main()
     {
-        Task2 task1 = new Task2();
+        Task3 task1 = new Task3();
     }
 }
