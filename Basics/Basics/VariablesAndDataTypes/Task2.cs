@@ -2,7 +2,7 @@
 {
     internal class Task2
     {
-        public void SumForArray(int[] ar)
+        public Task2(int[] ar)
         {
             int sum = 0;
             for (int i = 0; i < ar.Length; i++)
