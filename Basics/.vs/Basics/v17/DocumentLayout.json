@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|c:\\projects\\tasksforupdate\\tasks\\basics\\basics\\cyclesandconditions\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|solutionrelative:basics\\cyclesandconditions\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|c:\\projects\\tasksforupdate\\tasks\\basics\\basics\\cyclesandconditions\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|solutionrelative:basics\\cyclesandconditions\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|c:\\projects\\tasksforupdate\\tasks\\basics\\basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task3.cs",
-              "DocumentMoniker": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\CyclesAndConditions\\Task3.cs",
-              "RelativeDocumentMoniker": "Basics\\CyclesAndConditions\\Task3.cs",
-              "ToolTip": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\CyclesAndConditions\\Task3.cs",
-              "RelativeToolTip": "Basics\\CyclesAndConditions\\Task3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\CyclesAndConditions\\Task4.cs",
+              "RelativeDocumentMoniker": "Basics\\CyclesAndConditions\\Task4.cs",
+              "ToolTip": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\CyclesAndConditions\\Task4.cs",
+              "RelativeToolTip": "Basics\\CyclesAndConditions\\Task4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T08:19:23.669Z",
+              "WhenOpened": "2024-07-03T07:38:31.954Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Basics\\Program.cs",
               "ToolTip": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\Program.cs",
               "RelativeToolTip": "Basics\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T08:02:15.907Z",
               "EditorCaption": ""
