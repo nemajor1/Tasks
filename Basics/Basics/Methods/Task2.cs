@@ -14,12 +14,12 @@ namespace Basics.Methods
         private void Coup(int number)
         {
             int[] mass = new int[number];
-            int n = number;
+            int n = number - 1;
             for (int i = 0; i < number; i++)
             {
                 mass[i] = n;
                 n -= 1;
-                Console.WriteLine(mass[i] + $" = {i} элементу ");
+                Console.WriteLine($"число {mass[i]} = {i} элементу ");
             }
         }
     }
