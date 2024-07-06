@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|c:\\projects\\tasksforupdate\\tasks\\basics\\basics\\methods\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|solutionrelative:basics\\methods\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|c:\\projects\\tasksforupdate\\tasks\\basics\\basics\\methods\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|solutionrelative:basics\\methods\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2920C8DC-0AEA-4E29-AE39-0849796C0232}|Basics\\Basics.csproj|c:\\projects\\tasksforupdate\\tasks\\basics\\basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task1.cs",
-              "DocumentMoniker": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\Methods\\Task1.cs",
-              "RelativeDocumentMoniker": "Basics\\Methods\\Task1.cs",
-              "ToolTip": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\Methods\\Task1.cs",
-              "RelativeToolTip": "Basics\\Methods\\Task1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\Methods\\Task2.cs",
+              "RelativeDocumentMoniker": "Basics\\Methods\\Task2.cs",
+              "ToolTip": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\Methods\\Task2.cs",
+              "RelativeToolTip": "Basics\\Methods\\Task2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T09:08:46.908Z",
+              "WhenOpened": "2024-07-06T12:50:27.097Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Basics\\Program.cs",
               "ToolTip": "C:\\projects\\TasksForUpdate\\Tasks\\Basics\\Basics\\Program.cs",
               "RelativeToolTip": "Basics\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T08:02:15.907Z",
               "EditorCaption": ""
