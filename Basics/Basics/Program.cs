@@ -6,6 +6,6 @@ class Program
 {
     static void Main()
     {
-        var task = new Task1();
+        var task = new Task2();
     }
 }
