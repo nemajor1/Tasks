@@ -1,10 +1,11 @@
 ﻿//using Basics.VariablesAndDataTypes;
 //using Basics.CyclesAndConditions;
-using Basics.Methods;
+//using Basics.Methods;
+using Basics.ClassesAndObjects;
 class Program
 {
     static void Main()
     {
-        Task5 task = new Task5();
+        var task = new Task1();
     }
 }
